@@ -1,4 +1,4 @@
-# LABORATORIO DE GIT
+# LABORATORIO DE GIT_
 ## Juan José Ruiz Rivero
 ## Abril de 2026
 
